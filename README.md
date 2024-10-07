@@ -18,4 +18,3 @@ Mobile Responsiveness
 The website is fully functional on mobile devices, ensuring ease of access on the go.
 User Feedback
 Users can provide feedback on the accuracy of suggested times, which can be used for improving the algorithm.
-
